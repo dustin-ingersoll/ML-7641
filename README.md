@@ -12,7 +12,7 @@ Date: 02/13/2022
 
 === SUMMARY ===
 
-Code link: https://github.com/dustin-ingersoll/ML-7641/tree/main/MLA1
+Code link: https://github.com/dustin-ingersoll/ML-7641
 
 Included is the source code, datasets, and graphs used in the analysis.
 
